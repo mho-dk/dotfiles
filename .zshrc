@@ -17,11 +17,7 @@ alias home='cd ~/'
 
 # Vim alias
 alias vim=nvim
-alias vim_s='NVIM_APPNAME=nvim-snacks nvim'
-alias vim_m='NVIM_APPNAME=nvim-mini nvim'
-alias vim2='NVIM_APPNAME=nvim_2 nvim'
-alias vim3='NVIM_APPNAME=nvim_3 nvim'
-
+alias nvim-kickstart='NVIM_APPNAME="nvim-kickstart" nvim'
 
 alias conlab="sshpass -p 'Spidse82!' ssh admin@172.16.1.90"
 
